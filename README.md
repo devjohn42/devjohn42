@@ -1,7 +1,17 @@
 # Olá! me chamo João Vitor ✨
 
-![DevJohn GitHub stats](https://github-readme-stats.vercel.app/api?username=devjohn42&show_icons=true&theme=dracula&include_all_commits=true&count_private)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjohn42&langs_count=5&layout=compact&theme=dracula)
+## Um Pouco sobre mim 😎
+
+<p>Meu nome é João Vitor, tenho 23 anos e sou apaixonado por desenvolvimento e programação. Sou formado em Sistemas de Informação, optei por essa formação para abranger ainda mais o meu conhecimento no campo da tecnologia. Tendo os conhecimentos necessários para gerir um projeto desde o seu planejamento até a sua implementação.<p/>
+
+<div>
+  
+  ![DevJohn GitHub stats](https://github-readme-stats.vercel.app/api?username=devjohn42&show_icons=true&theme=dracula&include_all_commits=true&count_private)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjohn42&langs_count=5&layout=compact&theme=dracula)
+  
+</div>
+
 
 ## Minhas Tecnologias 🔥
 
@@ -13,8 +23,6 @@
   <img align="center" alt="DevJohn-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <!-- <img align="center" alt="DevJohn-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -->
   <img align="center" alt="DevJohn-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-  <!-- <img align="center" alt="DevJohn-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="DevJohn-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" /> -->
 </div>
 
 ### Tecnologias Back-End ⚙️
