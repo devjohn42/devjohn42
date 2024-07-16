@@ -87,7 +87,7 @@
     <div>
         <img src="https://skillicons.dev/icons?i=gcp" />
         <img src="https://skillicons.dev/icons?i=vercel" />
-        <img src="https://skillicons.dev/icons?i=firebase" />
+<!--         <img src="https://skillicons.dev/icons?i=firebase" /> -->
         <img src="https://skillicons.dev/icons?i=netlify" />
         <!--<img src="https://skillicons.dev/icons?i=bots" />-->
     </div>
