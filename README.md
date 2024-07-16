@@ -40,8 +40,8 @@
   </tr>
   <tr>
         <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td>
+<!--         <td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td> -->
+<!--         <td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td> -->
         <td><img src="https://skillicons.dev/icons?i=gcp" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=vercel" height="40" width="40" align="top"/></td>
         <!--<td><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" align="top"/></td>-->
