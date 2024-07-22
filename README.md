@@ -7,6 +7,7 @@
 </div>
 
 <div style="width: 100%" align="center">
+    <h3>Github Stats</h3>
     <p align="center">
         <a style="text-decoration: none" >
             <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=devjohn42&show_icons=true&hide_border=true&title_color=32A1B9&amp&icon_color=79FF97&amp&text_color=e3edf7&amp&bg_color=23232f&count_private=true&include_all_commits=true"/>
@@ -21,7 +22,7 @@
 </div>
 
 <div align="center">
-<br>
+<hr width="90%" align="center">
     <h3>My Languages & Technologies</h3>
     <table>
   <tr>
@@ -40,8 +41,8 @@
   </tr>
   <tr>
         <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
-<!--         <td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td> -->
-<!--         <td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td> -->
+        <!--<td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>-->
+        <!--<td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td>-->
         <td><img src="https://skillicons.dev/icons?i=gcp" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=vercel" height="40" width="40" align="top"/></td>
         <!--<td><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" align="top"/></td>-->
@@ -51,57 +52,78 @@
         <td><img src="https://skillicons.dev/icons?i=git" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=github" height="40" width="40" align="top"/></td>
   </tr>
-<br>
 </table>
 </div>
-
+<br>
 <div align="center">
-<hr width="90%" align="center">
+    <h3>🎯 Currently Studying 🎯</h3>
+    <table>
+  <tr>
+        <td><img src="https://skillicons.dev/icons?i=react" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=electron" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nest" height="40" width="40" align="top"/></td>
+  </tr>
+</table>
+</div>
+<br>
+<div align="center">
     <h3>💻 Front-End</h3>
-    <div>
-        <img src="https://skillicons.dev/icons?i=html"/>
-        <img src="https://skillicons.dev/icons?i=css"/>
-        <img src="https://skillicons.dev/icons?i=js"/>
-        <img src="https://skillicons.dev/icons?i=react"/>
-        <img src="https://skillicons.dev/icons?i=nextjs"/>
-        <!--<img src="https://skillicons.dev/icons?i=electron"/>-->
-        <img src="https://skillicons.dev/icons?i=tailwind"/>
-        <img src="https://skillicons.dev/icons?i=styledcomponents"/>
-    </div>
+    <table>
+     <tr>
+        <td><img src="https://skillicons.dev/icons?i=html"height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=css"height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=js"height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=react"height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nextjs"height="40" width="40" align="top"/></td>
+        <!--<td><img src="https://skillicons.dev/icons?i=electron"height="40" width="40" align="top"/></td>-->
+        <td><img src="https://skillicons.dev/icons?i=tailwind"height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=styledcomponents"height="40" width="40" align="top"/></td>
+     </tr>
+    </table>
 </div>
 
 <div align="center">
     <h3>⚙ Back-End️</h3>
-    <div>
-        <img src="https://skillicons.dev/icons?i=nodejs" />
-        <img src="https://skillicons.dev/icons?i=ts" />
-        <!--<img src="https://skillicons.dev/icons?i=discordjs"/>-->
-        <img src="https://skillicons.dev/icons?i=express" />
-        <!--<img src="https://skillicons.dev/icons?i=mongodb" />-->
-    </div>
-    
+    <table>
+     <tr>
+        <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=express" height="40" width="40" align="top"/></td>
+        <!--<td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>-->
+        <!--<td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>-->
+     </tr>
+    </table>
 </div>
-
 <div align="center">
     <h3>☁Services & Clouds</h3>
-    <div>
-        <img src="https://skillicons.dev/icons?i=gcp" />
-        <img src="https://skillicons.dev/icons?i=vercel" />
-<!--         <img src="https://skillicons.dev/icons?i=firebase" /> -->
-        <img src="https://skillicons.dev/icons?i=netlify" />
-        <!--<img src="https://skillicons.dev/icons?i=bots" />-->
-    </div>
+    <table>
+     <tr>
+        <td><img src="https://skillicons.dev/icons?i=gcp" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=vercel" height="40" width="40" align="top"/></td>
+        <!--<td><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" align="top"/></td>-->
+        <td><img src="https://skillicons.dev/icons?i=netlify" height="40" width="40" align="top"/></td>
+        <!--<td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td>-->
+     </tr>
+    </table>
 </div>
 
 <div align="center">
     <h3>🛠 Others Tools️</h3>
-    <div>
-        <img src="https://skillicons.dev/icons?i=vite"/>
-        <img src="https://skillicons.dev/icons?i=vscode" />
-        <img src="https://skillicons.dev/icons?i=discord" />
-        <img src="https://skillicons.dev/icons?i=git" />
-        <img src="https://skillicons.dev/icons?i=github" />
-    </div>
+    <table>
+     <tr>
+        <td><img src="https://skillicons.dev/icons?i=vite" height="40" width="40" align="top"/></td>
+        <!--<td><img src="https://skillicons.dev/icons?i=vitest" height="40" width="40" align="top"/></td>-->
+        <td><img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=git" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=github" height="40" width="40" align="top"/></td>
+     </tr>
+    </table>
+<br>
 
 </div>
 
@@ -124,3 +146,5 @@
 
 
 </div>
+
+
