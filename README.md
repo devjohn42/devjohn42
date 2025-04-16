@@ -1,3 +1,4 @@
+
 <div style="width: 100%" align="center">
     <h1>Hey! I´m João Vitor ✨</h1>
     <div style="width: 80%">
@@ -19,10 +20,10 @@
             <img src="https://github-readme-streak-stats.herokuapp.com?user=devjohn42&border_radius=6&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=742&card_height=175&background=23232f&stroke=e3edf7&ring=79FF97&fire=79FF97&currStreakNum=32A1B9&sideNums=32A1B9&currStreakLabel=32A1B9&sideLabels=32A1B9&dates=e3edf7" alt="Devjohn'Github Streak" />      
         </a>
 </p>
+<hr width="90%" align="center">
 </div>
 
-<div align="center">
-<hr width="90%" align="center">
+<div width="90%" align="center">
     <h3>My Languages & Technologies</h3>
     <table>
   <tr>
@@ -55,16 +56,17 @@
 </table>
 </div>
 <br>
-<div align="center">
+<div width="90%" align="center">
     <h3>🎯 Currently Studying 🎯</h3>
     <table>
   <tr>
-        <td><img src="https://skillicons.dev/icons?i=react" height="40" width="40" align="top"/></td>
+    <!--<td><img src="https://skillicons.dev/icons?i=react" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=electron" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=electron" height="40" width="40" align="top"/></td>-->
         <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nestjs" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=prisma" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>
@@ -73,7 +75,7 @@
 </table>
 </div>
 <br>
-<div align="center">
+<div width="90%" align="center">
     <h3>💻 Front-End</h3>
     <table>
      <tr>
@@ -83,44 +85,45 @@
         <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=react"height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=nextjs"height="40" width="40" align="top"/></td>
-        <!--<td><img src="https://skillicons.dev/icons?i=electron"height="40" width="40" align="top"/></td>-->
+        <td><img src="https://skillicons.dev/icons?i=electron"height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=tailwind"height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=styledcomponents"height="40" width="40" align="top"/></td>
      </tr>
     </table>
 </div>
 
-<div align="center">
+<div width="90%" align="center">
     <h3>⚙ Back-End️</h3>
     <table>
      <tr>
         <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=express" height="40" width="40" align="top"/></td>
-        <!--<td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>-->
-        <!--<td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>-->
+    <!--<td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>-->
+    <!--<td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>-->
      </tr>
     </table>
 </div>
-<div align="center">
+<div width="90%" align="center">
     <h3>☁Services & Clouds</h3>
     <table>
      <tr>
         <td><img src="https://skillicons.dev/icons?i=gcp" height="40" width="40" align="top"/></td>
+    <!--<td><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" align="top"/></td>-->
+    <!--<td><img src="https://skillicons.dev/icons?i=aws" height="40" width="40" align="top"/></td>-->
         <td><img src="https://skillicons.dev/icons?i=vercel" height="40" width="40" align="top"/></td>
-        <!--<td><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" align="top"/></td>-->
         <td><img src="https://skillicons.dev/icons?i=netlify" height="40" width="40" align="top"/></td>
-        <!--<td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td>-->
+    <!--<td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td>-->
      </tr>
     </table>
 </div>
 
-<div align="center">
+<div width="90%" align="center">
     <h3>🛠 Others Tools️</h3>
     <table>
      <tr>
         <td><img src="https://skillicons.dev/icons?i=vite" height="40" width="40" align="top"/></td>
-        <!--<td><img src="https://skillicons.dev/icons?i=vitest" height="40" width="40" align="top"/></td>-->
+    <!--<td><img src="https://skillicons.dev/icons?i=vitest" height="40" width="40" align="top"/></td>-->
         <td><img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=git" height="40" width="40" align="top"/></td>
@@ -130,9 +133,9 @@
 <br>
 
 </div>
-
-<div align="center">
 <hr width="90%" align="center">
+
+<div width="90%" align="center">
     <h3>📫 Onde me Encontrar</h3>
     <div>
      <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-cardoso-barbosa-407173225/" target="_blank" style="text-decoration: none" >
@@ -147,8 +150,3 @@
     </div>
 
 </div>
-
-
-</div>
-
-
