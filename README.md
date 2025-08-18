@@ -20,10 +20,11 @@
             <img src="https://github-readme-streak-stats.herokuapp.com?user=devjohn42&border_radius=6&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=742&card_height=175&background=23232f&stroke=e3edf7&ring=79FF97&fire=79FF97&currStreakNum=32A1B9&sideNums=32A1B9&currStreakLabel=32A1B9&sideLabels=32A1B9&dates=e3edf7" alt="Devjohn'Github Streak" />      
         </a>
 </p>
-<hr width="90%" align="center">
 </div>
 
-<div width="90%" align="center">
+<hr width="90%">
+
+<div width="90%">
     <h3>My Languages & Technologies</h3>
     <table>
   <tr>
@@ -56,7 +57,7 @@
 </table>
 </div>
 <br>
-<div width="90%" align="center">
+<div width="90%">
     <h3>🎯 Currently Studying 🎯</h3>
     <table>
   <tr>
@@ -77,7 +78,7 @@
 </table>
 </div>
 <br>
-<div width="90%" align="center">
+<div width="90%">
     <h3>💻 Front-End</h3>
     <table>
      <tr>
@@ -94,7 +95,7 @@
     </table>
 </div>
 
-<div width="90%" align="center">
+<div width="90%">
     <h3>⚙ Back-End️</h3>
     <table>
      <tr>
@@ -106,7 +107,7 @@
      </tr>
     </table>
 </div>
-<div width="90%" align="center">
+<div width="90%">
     <h3>☁Services & Clouds</h3>
     <table>
      <tr>
@@ -120,7 +121,7 @@
     </table>
 </div>
 
-<div width="90%" align="center">
+<div width="90%">
     <h3>🛠 Others Tools️</h3>
     <table>
      <tr>
@@ -135,9 +136,9 @@
 <br>
 
 </div>
-<hr width="90%" align="center">
+<hr width="90%">
 
-<div width="90%" align="center">
+<div width="90%">
     <h3>📫 Onde me Encontrar</h3>
     <div>
      <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-cardoso-barbosa-407173225/" target="_blank" style="text-decoration: none" >
