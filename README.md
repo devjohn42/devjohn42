@@ -71,6 +71,7 @@
         <td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=postgres" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=docker" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=vitest" height="40" width="40" align="top"/></td>
 <!--         <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td> -->
@@ -126,7 +127,7 @@
     <table>
      <tr>
         <td><img src="https://skillicons.dev/icons?i=vite" height="40" width="40" align="top"/></td>
-    <!--<td><img src="https://skillicons.dev/icons?i=vitest" height="40" width="40" align="top"/></td>-->
+        <td><img src="https://skillicons.dev/icons?i=vitest" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=git" height="40" width="40" align="top"/></td>
