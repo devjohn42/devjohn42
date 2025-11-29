@@ -58,7 +58,6 @@
         <td><img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=electron" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=tailwind" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=styledcomponents" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=express" height="40" width="40" align="top"/></td>
@@ -91,7 +90,6 @@
         <td><img src="https://skillicons.dev/icons?i=nextjs"height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=electron"height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=tailwind"height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=styledcomponents"height="40" width="40" align="top"/></td>
      </tr>
     </table>
 </div>
