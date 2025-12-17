@@ -101,6 +101,11 @@
         <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
         <td><img src="https://skillicons.dev/icons?i=express" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nestjs" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=prisma" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=postgres" height="40" width="40" align="top"/></td>
+        <td><img src="https://skillicons.dev/icons?i=docker" height="40" width="40" align="top"/></td>
     <!--<td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>-->
     <!--<td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>-->
      </tr>
