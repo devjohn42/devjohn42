@@ -84,22 +84,38 @@
     </table>
 </div>
 
-<div width="90%">
-    <h3>⚙ Back-End️</h3>
+<div width="90%" align="center">
+  <h3>⚙ Back-End️</h3>
     <table>
-     <tr>
-        <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=express" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=nestjs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=prisma" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=postgres" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=docker" height="40" width="40" align="top"/></td>
-    <!--<td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>-->
-    <!--<td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>-->
-     </tr>
-    </table>
+      <tr>
+        <p>
+          <!--Typescript-->
+          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+          <!--Node.js-->
+          <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063"/>
+          <!--Express-->
+          <img src="https://img.shields.io/badge/Express-23232F?style=for-the-badge&logo=express&logoColor=000000"/>
+          <!--Fastify-->
+          <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000"/>
+          <!--Nest.js-->
+          <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858"/>
+        </p>
+      </tr>
+      <tr>
+        <p>
+          <!--Prisma-->
+          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
+          <!--MongoDB-->
+          <img src="https://img.shields.io/badge/Mongo DB-23232F?style=for-the-badge&logo=mongodb&logoColor=B1FF05"/>
+          <!--PostgreSQL-->
+          <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+          <!--Docker-->
+          <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED"/>
+          <!--Vitest-->
+          <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B"/>
+        </p>
+      </tr>
+    </table>  
 </div>
 <div width="90%">
     <h3>☁Services & Clouds</h3>
