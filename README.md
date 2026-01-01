@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=32A1B9&height=120&section=header)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=32A1B9&center=true&vCenter=true&width=800&lines=Ol%C3%A1+Visitante%2C+Seja+bem-vindo+ao+meu+Github;Me+chamo+Jo%C3%A3o+Vitor;Mas+pode+me+chamar+de+devjohn)](https://git.io/typing-svg)
 
-## HELLO WORLD
+## Olá Mundo
 
 - Formando em Sistemas de Informação 📚
 - Front End Developer 💻
-- Estudando para me tornar Full Stack Developer
+- Estudando para me tornar Full Stack Developer 🌐
 
 <div style="width: 100%" align="center">
     <h3>Github Stats</h3>
@@ -20,24 +20,37 @@
             <img src="https://github-readme-streak-stats.herokuapp.com?user=devjohn42&border_radius=6&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=742&card_height=175&background=23232f&stroke=e3edf7&ring=79FF97&fire=79FF97&currStreakNum=32A1B9&sideNums=32A1B9&currStreakLabel=32A1B9&sideLabels=32A1B9&dates=e3edf7" alt="Devjohn'Github Streak" /></a>
 </p>
 </div>
-
-<div width="90%">
-    <h3>🎯 Currently Studying 🎯</h3>
+</br>
+<div width="90%" align="center">
+    <h3>🎯Atualmente Estudando 🎯</h3>
     <table>
   <tr>
-    <!--<td><img src="https://skillicons.dev/icons?i=react" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=electron" height="40" width="40" align="top"/></td>-->
-        <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=nestjs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=prisma" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=postgres" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=docker" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=vitest" height="40" width="40" align="top"/></td>
-<!--         <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td> -->
+    <p>
+      <!--Typescript-->
+      <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+      <!--Node.js-->
+      <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063"/>
+      <!--Fastify-->
+      <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000"/>
+      <!--Nest.js-->
+      <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858"/>
+      <!--Prisma-->
+      <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
+    </p>
+  </tr>
+  <tr>
+    <p>
+      <!--Drizzle-->
+      <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
+      <!--PostgreSQL-->
+      <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+      <!--Redis-->
+      <img src="https://img.shields.io/badge/Redis-23232f?style=for-the-badge&logo=redis&logoColor=FF4438"/>
+      <!--Docker-->
+      <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED"/>
+      <!--Vitest-->
+      <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B"/>
+    </p>
   </tr>
 </table>
 </div>
