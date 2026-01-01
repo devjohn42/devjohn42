@@ -22,83 +22,65 @@
 </div>
 </br>
 <div width="90%" align="center">
-    <h3>🎯Atualmente Estudando 🎯</h3>
+  <h3>🎯Atualmente Estudando 🎯</h3>
     <table>
-  <tr>
-    <p>
-      <!--Typescript-->
-      <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
-      <!--Node.js-->
-      <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063"/>
-      <!--Fastify-->
-      <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000"/>
-      <!--Nest.js-->
-      <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858"/>
-      <!--Prisma-->
-      <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
-    </p>
-  </tr>
-  <tr>
-    <p>
-      <!--Drizzle-->
-      <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
-      <!--PostgreSQL-->
-      <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-      <!--Redis-->
-      <img src="https://img.shields.io/badge/Redis-23232f?style=for-the-badge&logo=redis&logoColor=FF4438"/>
-      <!--Docker-->
-      <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED"/>
-      <!--Vitest-->
-      <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B"/>
-    </p>
-  </tr>
-</table>
+      <tr>
+        <p>
+          <!--Typescript-->
+          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+          <!--Node.js-->
+          <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063"/>
+          <!--Fastify-->
+          <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000"/>
+          <!--Nest.js-->
+          <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858"/>
+          <!--Prisma-->
+          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
+        </p>
+      </tr>
+      <tr>
+        <p>
+          <!--Drizzle-->
+          <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
+          <!--PostgreSQL-->
+          <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+          <!--Redis-->
+          <img src="https://img.shields.io/badge/Redis-23232f?style=for-the-badge&logo=redis&logoColor=FF4438"/>
+          <!--Docker-->
+          <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED"/>
+          <!--Vitest-->
+          <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B"/>
+        </p>
+      </tr>
+    </table>
 </div>
 <br>
-<div width="90%">
-    <h3>My Languages & Technologies</h3>
+
+<div width="90%" align="center">
+  <h3>💻 Front-End</h3>
     <table>
-  <tr>
-        <td><img src="https://skillicons.dev/icons?i=html" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=css" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=js" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=react" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=nextjs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=electron" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=tailwind" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=express" height="40" width="40" align="top"/></td>
-        <!--<td><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" align="top"/></td>-->
-  </tr>
-  <tr>
-        <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
-        <!--<td><img src="https://skillicons.dev/icons?i=discordjs" height="40" width="40" align="top"/></td>-->
-        <!--<td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td>-->
-        <td><img src="https://skillicons.dev/icons?i=gcp" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=vercel" height="40" width="40" align="top"/></td>
-        <!--<td><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" align="top"/></td>-->
-        <td><img src="https://skillicons.dev/icons?i=netlify" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=vite" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=git" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=github" height="40" width="40" align="top"/></td>
-  </tr>
-</table>
-</div>
-<div width="90%">
-    <h3>💻 Front-End</h3>
-    <table>
-     <tr>
-        <td><img src="https://skillicons.dev/icons?i=html"height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=css"height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=js"height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=ts" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=react"height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=nextjs"height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=electron"height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=tailwind"height="40" width="40" align="top"/></td>
-     </tr>
+      <tr>
+        <p>
+          <!--Typescript-->
+          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+          <!--React-->
+          <img src="https://img.shields.io/badge/React-23232F?style=for-the-badge&logo=react&logoColor=58C4DC"/>
+          <!--React Native-->
+          <img src="https://img.shields.io/badge/React Native-23232F?style=for-the-badge&logo=react&logoColor=37606C"/>
+          <!--Next-->
+          <img src="https://img.shields.io/badge/Next-23232F?style=for-the-badge&logo=next.js&logoColor=000000"/>
+          <!--Electron-->
+          <img src="https://img.shields.io/badge/Electron-23232F?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
+        </p>
+      </tr>
+      <tr>
+        <p>
+          <!--TailwindCSS-->
+          <img src="https://img.shields.io/badge/Tailwind-23232F?style=for-the-badge&logo=tailwindcss&logoColor=00BCFF"/>
+          <!--Vite-->
+          <img src="https://img.shields.io/badge/Vite-23232F?style=for-the-badge&logo=vite&logoColor=C56CF2"/>
+        </p>
+      </tr>  
     </table>
 </div>
 
