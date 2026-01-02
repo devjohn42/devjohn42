@@ -7,6 +7,8 @@
 - Front End Developer 💻
 - Estudando para me tornar Full Stack Developer 🌐
 
+<hr width="90%">
+
 <div style="width: 100%" align="center">
     <h3>Github Stats</h3>
     <p align="center">
@@ -109,43 +111,38 @@
           <img src="https://img.shields.io/badge/Mongo DB-23232F?style=for-the-badge&logo=mongodb&logoColor=B1FF05"/>
           <!--PostgreSQL-->
           <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-          <!--Docker-->
-          <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED"/>
           <!--Vitest-->
           <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B"/>
         </p>
       </tr>
     </table>  
 </div>
-<div width="90%">
-    <h3>☁Services & Clouds</h3>
+<div width="90%" align="center">
+  <h3>☁ Services & Clouds</h3>
     <table>
-     <tr>
-        <td><img src="https://skillicons.dev/icons?i=gcp" height="40" width="40" align="top"/></td>
-    <!--<td><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" align="top"/></td>-->
-    <!--<td><img src="https://skillicons.dev/icons?i=aws" height="40" width="40" align="top"/></td>-->
-        <td><img src="https://skillicons.dev/icons?i=vercel" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=netlify" height="40" width="40" align="top"/></td>
-    <!--<td><img src="https://skillicons.dev/icons?i=bots" height="40" width="40" align="top"/></td>-->
-     </tr>
+      <tr>
+        <p>
+          <!--Google Cloud Plataform-->
+          <img src="https://img.shields.io/badge/Google CP-23232F?style=for-the-badge&logo=googlecloud&logoColor=3178c6"/>
+          <!-- Clerk
+          <img src="https://img.shields.io/badge/Clerk-23232F?style=for-the-badge&logo=clerk&logoColor=8964FF"/> -->
+          <!--Docker-->
+          <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED"/>
+          <!-- Kubernetes
+          <img src="https://img.shields.io/badge/Kubernetes-23232F?style=for-the-badge&logo=kubernetes&logoColor=316CE6"/> -->
+          <!--Insomnia-->
+          <img src="https://img.shields.io/badge/Insomnia-23232F?style=for-the-badge&logo=insomnia&logoColor=6100d5"/>
+          <!--Render-->
+          <img src="https://img.shields.io/badge/Render-23232F?style=for-the-badge&logo=render&logoColor=FFFFFF"/>
+          <!--Vercel-->
+          <img src="https://img.shields.io/badge/Vercel-23232F?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+          <!--Netlify-->
+          <img src="https://img.shields.io/badge/Netlify-23232F?style=for-the-badge&logo=netlify&logoColor=32E6E2"/>
+        </p>
+      </tr>
     </table>
 </div>
 
-<div width="90%">
-    <h3>🛠 Others Tools️</h3>
-    <table>
-     <tr>
-        <td><img src="https://skillicons.dev/icons?i=vite" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=vitest" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=git" height="40" width="40" align="top"/></td>
-        <td><img src="https://skillicons.dev/icons?i=github" height="40" width="40" align="top"/></td>
-     </tr>
-    </table>
-<br>
-
-</div>
 <hr width="90%">
 
 <div width="90%">
