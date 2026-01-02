@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=32A1B9&height=120&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=32A1B9&center=true&vCenter=true&width=800&lines=Ol%C3%A1+Visitante%2C+Seja+bem-vindo+ao+meu+Github;Me+chamo+Jo%C3%A3o+Vitor;Mas+pode+me+chamar+de+devjohn)](https://git.io/typing-svg)
-
-## Olá Mundo
-
-- Formando em Sistemas de Informação 📚
-- Front End Developer 💻
-- Estudando para me tornar Full Stack Developer 🌐
-
-<hr width="90%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=32A1B9&center=true&vCenter=true&width=800&lines=Ol%C3%A1+Visitante%2C+Seja+bem-vindo+ao+meu+Github;Me+chamo+Jo%C3%A3o+Vitor;Mas+pode+me+chamar+de+devjohn;Formado+em+Sistemas+de+Informação;Front-End+Developer;Estudante+para+me+tornar+Full+Stack+developer)](https://git.io/typing-svg)
 
 <div style="width: 100%" align="center">
     <h3>Github Stats</h3>
@@ -143,7 +135,7 @@
     </table>
 </div>
 
-<hr width="90%">
+<hr width="90%" aling="center">
 
 <div width="90%">
     <h3>📫 Onde me Encontrar</h3>
