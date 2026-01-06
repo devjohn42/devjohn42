@@ -150,5 +150,17 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
      </a>
     </div>
-
 </div>
+
+<!-- <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjohn42/devjohn42/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjohn42/devjohn42/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devjohn42/devjohn42/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devjohn42}/count.svg" /></p>
+<br></div> -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=32A1B9&height=120&section=footer)
