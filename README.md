@@ -16,6 +16,7 @@
 </div>
 </br>
 <hr width="100%" align="center">
+</br>
 <div width="90%" align="center">
   <h3>🎯Atualmente Estudando 🎯</h3>
     <table>
@@ -49,7 +50,6 @@
       </tr>
     </table>
 </div>
-<br>
 
 <div width="90%" align="center">
   <h3>💻 Front-End</h3>
@@ -135,9 +135,9 @@
       </tr>
     </table>
 </div>
-
+</br>
 <hr width="100%" align="center">
-
+</br>
 <div width="90%" align="center">
     <h3>📫 Onde me Encontrar</h3>
       <div>
