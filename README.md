@@ -15,6 +15,7 @@
 </p>
 </div>
 </br>
+<hr width="100%" align="center">
 <div width="90%" align="center">
   <h3>🎯Atualmente Estudando 🎯</h3>
     <table>
@@ -129,28 +130,26 @@
           <!--Vercel-->
           <img src="https://img.shields.io/badge/Vercel-23232F?style=for-the-badge&logo=vercel&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--Netlify-->
-          <img src="https://img.shields.io/badge/Netlify-23232F?style=for-the-badge&logo=netlify&logoColor=32E6E2"style="height: 32px; width: auto;"/>
+          <img src="https://img.shields.io/badge/Netlify-23232F?style=for-the-badge&logo=netlify&logoColor=32E6E2" style="height: 32px; width: auto;"/>
         </p>
       </tr>
     </table>
 </div>
 
-<hr width="90%" aling="center">
+<hr width="100%" align="center">
 
-<div width="90%">
+<div width="90%" align="center">
     <h3>📫 Onde me Encontrar</h3>
-    <div>
-     <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-cardoso-barbosa-407173225/" target="_blank" style="text-decoration: none" >
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-     </a>
-     <a href="https://www.instagram.com/devjohn42/" target="_blank" style="text-decoration: none" >
-      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
-     </a> 
-     <a href="https://twitter.com/devjohn42" target="_blank" style="text-decoration: none" >
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-     </a>
-    </div>
+      <div>
+        <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-cardoso-barbosa-407173225/" target="_blank" style="text-decoration: none" >
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  style="height: 32px; width: auto;"/>
+        </a>
+        <a href="https://www.instagram.com/devjohn42/" target="_blank" style="text-decoration: none" >
+          <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge" style="height: 32px; width: auto;"/>
+        </a> 
+      </div> 
 </div>
+
 
 <!-- <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjohn42/devjohn42/output/github-contribution-grid-snake-dark.svg">
