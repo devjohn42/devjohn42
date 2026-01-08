@@ -21,29 +21,29 @@
       <tr>
         <p>
           <!--Typescript-->
-          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6" style="height: 32px; width: auto;"/>
           <!--Node.js-->
-          <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063"/>
+          <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063" style="height: 32px; width: auto;"/>
           <!--Fastify-->
-          <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000"/>
+          <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000" style="height: 32px; width: auto;"/>
           <!--Nest.js-->
-          <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858"/>
+          <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858" style="height: 32px; width: auto;"/>
           <!--Prisma-->
-          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
+          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
         </p>
       </tr>
       <tr>
         <p>
           <!--Drizzle-->
-          <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
+          <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F" style="height: 32px; width: auto;"/>
           <!--PostgreSQL-->
-          <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791" style="height: 32px; width: auto;"/>
           <!--Redis-->
-          <img src="https://img.shields.io/badge/Redis-23232f?style=for-the-badge&logo=redis&logoColor=FF4438"/>
+          <img src="https://img.shields.io/badge/Redis-23232f?style=for-the-badge&logo=redis&logoColor=FF4438" style="height: 32px; width: auto;"/>
           <!--Docker-->
-          <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED"/>
+          <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
           <!--Vitest-->
-          <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B"/>
+          <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B" style="height: 32px; width: auto;"/>
         </p>
       </tr>
     </table>
@@ -56,23 +56,23 @@
       <tr>
         <p>
           <!--Typescript-->
-          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6" style="height: 32px; width: auto;"/>
           <!--React-->
-          <img src="https://img.shields.io/badge/React-23232F?style=for-the-badge&logo=react&logoColor=58C4DC"/>
+          <img src="https://img.shields.io/badge/React-23232F?style=for-the-badge&logo=react&logoColor=58C4DC" style="height: 32px; width: auto;"/>
           <!--React Native-->
-          <img src="https://img.shields.io/badge/React Native-23232F?style=for-the-badge&logo=react&logoColor=37606C"/>
+          <img src="https://img.shields.io/badge/React Native-23232F?style=for-the-badge&logo=react&logoColor=37606C" style="height: 32px; width: auto;"/>
           <!--Next-->
-          <img src="https://img.shields.io/badge/Next-23232F?style=for-the-badge&logo=next.js&logoColor=000000"/>
+          <img src="https://img.shields.io/badge/Next-23232F?style=for-the-badge&logo=next.js&logoColor=000000" style="height: 32px; width: auto;"/>
           <!--Electron-->
-          <img src="https://img.shields.io/badge/Electron-23232F?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
+          <img src="https://img.shields.io/badge/Electron-23232F?style=for-the-badge&logo=electron&logoColor=9FEAF9" style="height: 32px; width: auto;"/>
         </p>
       </tr>
       <tr>
         <p>
           <!--TailwindCSS-->
-          <img src="https://img.shields.io/badge/Tailwind-23232F?style=for-the-badge&logo=tailwindcss&logoColor=00BCFF"/>
+          <img src="https://img.shields.io/badge/Tailwind-23232F?style=for-the-badge&logo=tailwindcss&logoColor=00BCFF" style="height: 32px; width: auto;"/>
           <!--Vite-->
-          <img src="https://img.shields.io/badge/Vite-23232F?style=for-the-badge&logo=vite&logoColor=C56CF2"/>
+          <img src="https://img.shields.io/badge/Vite-23232F?style=for-the-badge&logo=vite&logoColor=C56CF2" style="height: 32px; width: auto;"/>
         </p>
       </tr>  
     </table>
@@ -84,27 +84,27 @@
       <tr>
         <p>
           <!--Typescript-->
-          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
+          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6" style="height: 32px; width: auto;"/>
           <!--Node.js-->
-          <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063"/>
+          <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063"style="height: 32px; width: auto;"/>
           <!--Express-->
-          <img src="https://img.shields.io/badge/Express-23232F?style=for-the-badge&logo=express&logoColor=000000"/>
+          <img src="https://img.shields.io/badge/Express-23232F?style=for-the-badge&logo=express&logoColor=000000" style="height: 32px; width: auto;"/>
           <!--Fastify-->
-          <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000"/>
+          <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000" style="height: 32px; width: auto;"/>
           <!--Nest.js-->
-          <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858"/>
+          <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858" style="height: 32px; width: auto;"/>
         </p>
       </tr>
       <tr>
         <p>
           <!--Prisma-->
-          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
+          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--MongoDB-->
-          <img src="https://img.shields.io/badge/Mongo DB-23232F?style=for-the-badge&logo=mongodb&logoColor=B1FF05"/>
+          <img src="https://img.shields.io/badge/Mongo DB-23232F?style=for-the-badge&logo=mongodb&logoColor=B1FF05" style="height: 32px; width: auto;"/>
           <!--PostgreSQL-->
-          <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791" style="height: 32px; width: auto;"/>
           <!--Vitest-->
-          <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B"/>
+          <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B" style="height: 32px; width: auto;"/>
         </p>
       </tr>
     </table>  
@@ -115,21 +115,21 @@
       <tr>
         <p>
           <!--Google Cloud Plataform-->
-          <img src="https://img.shields.io/badge/Google CP-23232F?style=for-the-badge&logo=googlecloud&logoColor=3178c6"/>
+          <img src="https://img.shields.io/badge/Google CP-23232F?style=for-the-badge&logo=googlecloud&logoColor=3178c6" style="height: 32px; width: auto;"/>
           <!-- Clerk
           <img src="https://img.shields.io/badge/Clerk-23232F?style=for-the-badge&logo=clerk&logoColor=8964FF"/> -->
           <!--Docker-->
-          <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED"/>
+          <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
           <!-- Kubernetes
           <img src="https://img.shields.io/badge/Kubernetes-23232F?style=for-the-badge&logo=kubernetes&logoColor=316CE6"/> -->
           <!--Insomnia-->
-          <img src="https://img.shields.io/badge/Insomnia-23232F?style=for-the-badge&logo=insomnia&logoColor=6100d5"/>
+          <img src="https://img.shields.io/badge/Insomnia-23232F?style=for-the-badge&logo=insomnia&logoColor=6100d5" style="height: 32px; width: auto;"/>
           <!--Render-->
-          <img src="https://img.shields.io/badge/Render-23232F?style=for-the-badge&logo=render&logoColor=FFFFFF"/>
+          <img src="https://img.shields.io/badge/Render-23232F?style=for-the-badge&logo=render&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--Vercel-->
-          <img src="https://img.shields.io/badge/Vercel-23232F?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+          <img src="https://img.shields.io/badge/Vercel-23232F?style=for-the-badge&logo=vercel&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--Netlify-->
-          <img src="https://img.shields.io/badge/Netlify-23232F?style=for-the-badge&logo=netlify&logoColor=32E6E2"/>
+          <img src="https://img.shields.io/badge/Netlify-23232F?style=for-the-badge&logo=netlify&logoColor=32E6E2"style="height: 32px; width: auto;"/>
         </p>
       </tr>
     </table>
