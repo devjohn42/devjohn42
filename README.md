@@ -22,6 +22,8 @@
     <table>
       <tr>
         <p>
+          <!--React-->
+          <img src="https://img.shields.io/badge/React-23232F?style=for-the-badge&logo=react&logoColor=58C4DC" style="height: 32px; width: auto;"/>
           <!--Typescript-->
           <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6" style="height: 32px; width: auto;"/>
           <!--Node.js-->
@@ -30,12 +32,12 @@
           <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000" style="height: 32px; width: auto;"/>
           <!--Nest.js-->
           <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858" style="height: 32px; width: auto;"/>
-          <!--Prisma-->
-          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
         </p>
       </tr>
       <tr>
         <p>
+          <!--Prisma-->
+          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--Drizzle-->
           <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F" style="height: 32px; width: auto;"/>
           <!--PostgreSQL-->
@@ -44,6 +46,10 @@
           <img src="https://img.shields.io/badge/Redis-23232f?style=for-the-badge&logo=redis&logoColor=FF4438" style="height: 32px; width: auto;"/>
           <!--Docker-->
           <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
+        </p>
+      </tr>
+      <tr>
+        <p>
           <!--Vitest-->
           <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B" style="height: 32px; width: auto;"/>
         </p>
@@ -127,6 +133,10 @@
           <img src="https://img.shields.io/badge/Insomnia-23232F?style=for-the-badge&logo=insomnia&logoColor=6100d5" style="height: 32px; width: auto;"/>
           <!--Render-->
           <img src="https://img.shields.io/badge/Render-23232F?style=for-the-badge&logo=render&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
+        </p>
+      </tr>
+      <tr>
+        <p>
           <!--Vercel-->
           <img src="https://img.shields.io/badge/Vercel-23232F?style=for-the-badge&logo=vercel&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--Netlify-->
