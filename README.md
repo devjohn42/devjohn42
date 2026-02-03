@@ -36,14 +36,10 @@
       </tr>
       <tr>
         <p>
-          <!--Prisma-->
-          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--Drizzle-->
           <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F" style="height: 32px; width: auto;"/>
           <!--PostgreSQL-->
           <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791" style="height: 32px; width: auto;"/>
-          <!--Redis-->
-          <img src="https://img.shields.io/badge/Redis-23232f?style=for-the-badge&logo=redis&logoColor=FF4438" style="height: 32px; width: auto;"/>
           <!--Docker-->
           <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
         </p>
