@@ -44,12 +44,6 @@
           <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
         </p>
       </tr>
-      <tr>
-        <p>
-          <!--Vitest-->
-          <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B" style="height: 32px; width: auto;"/>
-        </p>
-      </tr>
     </table>
 </div>
 
