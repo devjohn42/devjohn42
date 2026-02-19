@@ -42,6 +42,8 @@
           <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791" style="height: 32px; width: auto;"/>
           <!--Docker-->
           <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
+          <!--Supabase-->
+          <img src="https://img.shields.io/badge/Supabase-23232f?style=for-the-badge&logo=supabase&logoColor=3FCF8E" style="height: 32px; width: auto;"/>
         </p>
       </tr>
     </table>
