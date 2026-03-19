@@ -36,8 +36,8 @@
       </tr>
       <tr>
         <p>
-          <!--Drizzle-->
-          <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F" style="height: 32px; width: auto;"/>
+          <!--Prisma-->
+          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--PostgreSQL-->
           <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791" style="height: 32px; width: auto;"/>
           <!--Docker-->
@@ -96,8 +96,8 @@
       </tr>
       <tr>
         <p>
-          <!--Prisma-->
-          <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
+          <!--Drizzle-->
+          <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F" style="height: 32px; width: auto;"/>
           <!--MongoDB-->
           <img src="https://img.shields.io/badge/Mongo DB-23232F?style=for-the-badge&logo=mongodb&logoColor=B1FF05" style="height: 32px; width: auto;"/>
           <!--PostgreSQL-->
