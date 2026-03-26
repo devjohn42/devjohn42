@@ -28,8 +28,6 @@
           <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6" style="height: 32px; width: auto;"/>
           <!--Node.js-->
           <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063" style="height: 32px; width: auto;"/>
-          <!--Fastify-->
-          <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000" style="height: 32px; width: auto;"/>
           <!--Nest.js-->
           <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858" style="height: 32px; width: auto;"/>
         </p>
