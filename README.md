@@ -121,20 +121,24 @@
         <p>
           <!--Google Cloud Plataform-->
           <img src="https://img.shields.io/badge/Google CP-23232F?style=for-the-badge&logo=googlecloud&logoColor=3178c6" style="height: 32px; width: auto;"/>
+          <!--Supabase-->
+          <img src="https://img.shields.io/badge/Supabase-23232f?style=for-the-badge&logo=supabase&logoColor=3FCF8E" style="height: 32px; width: auto;"/>
           <!-- Clerk
           <img src="https://img.shields.io/badge/Clerk-23232F?style=for-the-badge&logo=clerk&logoColor=8964FF"/> -->
           <!--Docker-->
           <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
           <!-- Kubernetes
           <img src="https://img.shields.io/badge/Kubernetes-23232F?style=for-the-badge&logo=kubernetes&logoColor=316CE6"/> -->
-          <!--Insomnia-->
-          <img src="https://img.shields.io/badge/Insomnia-23232F?style=for-the-badge&logo=insomnia&logoColor=6100d5" style="height: 32px; width: auto;"/>
-          <!--Render-->
-          <img src="https://img.shields.io/badge/Render-23232F?style=for-the-badge&logo=render&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
         </p>
       </tr>
       <tr>
         <p>
+          <!--Insomnia-->
+          <img src="https://img.shields.io/badge/Insomnia-23232F?style=for-the-badge&logo=insomnia&logoColor=6100d5" style="height: 32px; width: auto;"/>
+          <!--Render-->
+          <img src="https://img.shields.io/badge/Render-23232F?style=for-the-badge&logo=render&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
+          <!--Railway-->
+          <img src="https://img.shields.io/badge/Railway-23232f?style=for-the-badge&logo=railway&logoColor=FFFFFF" style="height: 32px; width: auto;"/>  
           <!--Vercel-->
           <img src="https://img.shields.io/badge/Vercel-23232F?style=for-the-badge&logo=vercel&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--Netlify-->
