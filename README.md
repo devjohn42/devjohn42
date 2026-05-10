@@ -22,12 +22,12 @@
     <table>
       <tr>
         <p>
-<!--React-->
+          <!--React-->
           <img src="https://img.shields.io/badge/React-23232F?style=for-the-badge&logo=react&logoColor=58C4DC" style="height: 32px; width: auto;"/>
-          <!--React Native-->
-          <img src="https://img.shields.io/badge/React Native-23232F?style=for-the-badge&logo=react&logoColor=37606C" style="height: 32px; width: auto;"/>
           <!--Next-->
           <img src="https://img.shields.io/badge/Next-23232F?style=for-the-badge&logo=next.js&logoColor=000000" style="height: 32px; width: auto;"/>
+          <!--React Native
+          <img src="https://img.shields.io/badge/React Native-23232F?style=for-the-badge&logo=react&logoColor=37606C" style="height: 32px; width: auto;"/>-->
           <!--Typescript-->
           <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6" style="height: 32px; width: auto;"/>
           <!--Node.js-->
