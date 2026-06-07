@@ -17,7 +17,7 @@
 </br>
 <hr width="100%" align="center">
 </br>
-<div width="90%" align="center">
+<div width="90%">
   <h3>🎯Atualmente Estudando 🎯</h3>
     <table>
       <tr>
@@ -53,7 +53,7 @@
     </table>
 </div>
 
-<div width="90%" align="center">
+<div width="90%">
   <h3>💻 Front-End</h3>
     <table>
       <tr>
@@ -81,7 +81,7 @@
     </table>
 </div>
 
-<div width="90%" align="center">
+<div width="90%">
   <h3>⚙ Back-End️</h3>
     <table>
       <tr>
@@ -114,7 +114,7 @@
       </tr>
     </table>  
 </div>
-<div width="90%" align="center">
+<div width="90%">
   <h3>☁ Services & Clouds</h3>
     <table>
       <tr>
@@ -148,9 +148,9 @@
     </table>
 </div>
 </br>
-<hr width="100%" align="center">
+<hr width="100%">
 </br>
-<div width="90%" align="center">
+<div width="90%">
     <h3>📫 Onde me Encontrar</h3>
       <div>
         <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-cardoso-barbosa-407173225/" target="_blank" style="text-decoration: none" >
