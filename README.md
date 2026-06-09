@@ -1,22 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=32A1B9&height=120&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=32A1B9&center=true&vCenter=true&width=800&lines=Ol%C3%A1+Visitante%2C+Seja+bem-vindo+ao+meu+Github;Me+chamo+Jo%C3%A3o+Vitor;Mas+pode+me+chamar+de+devjohn;Formado+em+Sistemas+de+Informação;Front-End+Developer;Estudando+para+me+tornar+Full+Stack+Developer)](https://git.io/typing-svg)
 
-<div style="width: 100%" align="center">
-    <h3>Github Stats</h3>
-    <p align="center">
-        <!-- <a style="text-decoration: none" >
-            <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=devjohn42&show_icons=true&hide_border=true&title_color=32A1B9&amp&icon_color=79FF97&amp&text_color=e3edf7&amp&bg_color=23232f&count_private=true&include_all_commits=true"/>
-        </a>
-        <a style="text-decoration: none" >
-            <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjohn42&text_color=e3edf7&bg_color=23232f&title_color=32A1B9&langs_count=8&layout=compact&hide_border=true" />
-        </a> -->
-        <a style="text-decoration: none" >
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=devjohn42&border_radius=6&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=742&card_height=175&background=23232f&stroke=e3edf7&ring=79FF97&fire=79FF97&currStreakNum=32A1B9&sideNums=32A1B9&currStreakLabel=32A1B9&sideLabels=32A1B9&dates=e3edf7" alt="Devjohn'Github Streak" /></a>
-</p>
-</div>
-</br>
-<hr width="100%" align="center">
-</br>
+# 👋 Olá, eu sou João Vitor
+
+💻 **Desenvolvedor Full Stack em formação**
+
 <div width="90%">
   <h3>🎯Atualmente Estudando 🎯</h3>
     <table>
@@ -52,6 +39,25 @@
       </tr>
     </table>
 </div>
+
+<div style="width: 100%">
+    <h3>Github Stats</h3>
+    <p>
+        <!-- <a style="text-decoration: none" >
+            <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=devjohn42&show_icons=true&hide_border=true&title_color=32A1B9&amp&icon_color=79FF97&amp&text_color=e3edf7&amp&bg_color=23232f&count_private=true&include_all_commits=true"/>
+        </a>
+        <a style="text-decoration: none" >
+            <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjohn42&text_color=e3edf7&bg_color=23232f&title_color=32A1B9&langs_count=8&layout=compact&hide_border=true" />
+        </a> -->
+        <a style="text-decoration: none" >
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=devjohn42&border_radius=6&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=742&card_height=175&background=23232f&stroke=e3edf7&ring=79FF97&fire=79FF97&currStreakNum=32A1B9&sideNums=32A1B9&currStreakLabel=32A1B9&sideLabels=32A1B9&dates=e3edf7" alt="Devjohn'Github Streak" /></a>
+</p>
+</div>
+</br>
+<hr width="100%" align="center">
+</br>
+
+# 📑Um pouco mais das minhas skills
 
 <div width="90%">
   <h3>💻 Front-End</h3>
