@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=32A1B9&height=120&section=header)
 
-# 👋 Olá, eu sou João Vitor
-
-💻 **Desenvolvedor Full Stack em formação**
-
+# 👋 Hi, you can call me devjohn
 <div width="90%">
-  <h3>🎯Atualmente Estudando 🎯</h3>
+  <h3>🎯Currently Studying 🎯</h3>
     <table>
       <tr>
         <p>
@@ -57,7 +54,7 @@
 <hr width="100%" align="center">
 </br>
 
-# 📑Um pouco mais das minhas skills
+# 📑A little more about my skills
 
 <div width="90%">
   <h3>💻 Front-End</h3>
@@ -157,7 +154,7 @@
 <hr width="100%">
 </br>
 <div width="90%">
-    <h3>📫 Onde me Encontrar</h3>
+    <h3>📫 Where to find me </h3>
       <div>
         <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-cardoso-barbosa-407173225/" target="_blank" style="text-decoration: none" >
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  style="height: 32px; width: auto;"/>
