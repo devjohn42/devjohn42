@@ -18,22 +18,15 @@
           <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063" style="height: 32px; width: auto;"/>
           <!--Nest.js-->
           <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858" style="height: 32px; width: auto;"/>
-        </p>
-      </tr>
-      <tr>
-        <p>
           <!--Prisma-->
           <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--PostgreSQL-->
           <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791" style="height: 32px; width: auto;"/>
           <!--Docker-->
           <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
-          <!--Supabase-->
-          <img src="https://img.shields.io/badge/Supabase-23232f?style=for-the-badge&logo=supabase&logoColor=3FCF8E" style="height: 32px; width: auto;"/>
-          <!--Railway-->
-          <img src="https://img.shields.io/badge/Railway-23232f?style=for-the-badge&logo=railway&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
+          <!--RabbitMQ-->
+          <img src="https://img.shields.io/badge/RabbitMQ-23232f?style=for-the-badge&logo=rabbitmq&logoColor=#FF6600" style="height: 32px; width: auto;"/>
         </p>
-      </tr>
     </table>
 </div>
 
@@ -71,16 +64,12 @@
           <img src="https://img.shields.io/badge/Next-23232F?style=for-the-badge&logo=next.js&logoColor=000000" style="height: 32px; width: auto;"/>
           <!--Electron-->
           <img src="https://img.shields.io/badge/Electron-23232F?style=for-the-badge&logo=electron&logoColor=9FEAF9" style="height: 32px; width: auto;"/>
-        </p>
-      </tr>
-      <tr>
-        <p>
           <!--TailwindCSS-->
           <img src="https://img.shields.io/badge/Tailwind-23232F?style=for-the-badge&logo=tailwindcss&logoColor=00BCFF" style="height: 32px; width: auto;"/>
           <!--Vite-->
           <img src="https://img.shields.io/badge/Vite-23232F?style=for-the-badge&logo=vite&logoColor=C56CF2" style="height: 32px; width: auto;"/>
         </p>
-      </tr>  
+      </tr>
     </table>
 </div>
 
@@ -99,18 +88,12 @@
           <img src="https://img.shields.io/badge/Fastify-23232F?style=for-the-badge&logo=fastify&logoColor=000000" style="height: 32px; width: auto;"/>
           <!--Nest.js-->
           <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858" style="height: 32px; width: auto;"/>
-        </p>
-      </tr>
-      <tr>
-        <p>
           <!--Drizzle-->
           <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F" style="height: 32px; width: auto;"/>
           <!--MongoDB-->
           <img src="https://img.shields.io/badge/Mongo DB-23232F?style=for-the-badge&logo=mongodb&logoColor=B1FF05" style="height: 32px; width: auto;"/>
           <!--PostgreSQL-->
           <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791" style="height: 32px; width: auto;"/>
-          <!--Clerk-->
-          <img src="https://img.shields.io/badge/Clerk-23232f?style=for-the-badge&logo=clerk&logoColor=6C47FF" style="height: 32px; width: auto;"/>
           <!--Vitest-->
           <img src="https://img.shields.io/badge/Vitest-23232F?style=for-the-badge&logo=vitest&logoColor=729B1B" style="height: 32px; width: auto;"/>
         </p>
@@ -124,6 +107,8 @@
         <p>
           <!--Google Cloud Plataform-->
           <img src="https://img.shields.io/badge/Google CP-23232F?style=for-the-badge&logo=googlecloud&logoColor=3178c6" style="height: 32px; width: auto;"/>
+          <!--Clerk-->
+          <img src="https://img.shields.io/badge/Clerk-23232f?style=for-the-badge&logo=clerk&logoColor=6C47FF" style="height: 32px; width: auto;"/>
           <!--Supabase-->
           <img src="https://img.shields.io/badge/Supabase-23232f?style=for-the-badge&logo=supabase&logoColor=3FCF8E" style="height: 32px; width: auto;"/>
           <!-- Clerk
@@ -132,10 +117,6 @@
           <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
           <!-- Kubernetes
           <img src="https://img.shields.io/badge/Kubernetes-23232F?style=for-the-badge&logo=kubernetes&logoColor=316CE6"/> -->
-        </p>
-      </tr>
-      <tr>
-        <p>
           <!--Insomnia-->
           <img src="https://img.shields.io/badge/Insomnia-23232F?style=for-the-badge&logo=insomnia&logoColor=6100d5" style="height: 32px; width: auto;"/>
           <!--Render-->
