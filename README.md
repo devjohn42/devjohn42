@@ -6,16 +6,12 @@
     <table>
       <tr>
         <p>
-          <!--React-->
-          <img src="https://img.shields.io/badge/React-23232F?style=for-the-badge&logo=react&logoColor=58C4DC" style="height: 32px; width: auto;"/>
           <!--Next-->
           <img src="https://img.shields.io/badge/Next-23232F?style=for-the-badge&logo=next.js&logoColor=000000" style="height: 32px; width: auto;"/>
-          <!--Typescript-->
-          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6" style="height: 32px; width: auto;"/>
-          <!--Node.js-->
-          <img src="https://img.shields.io/badge/Node.js-23232F?style=for-the-badge&logo=node.js&logoColor=68A063" style="height: 32px; width: auto;"/>
           <!--Nest.js-->
           <img src="https://img.shields.io/badge/Nest-23232F?style=for-the-badge&logo=nestjs&logoColor=EA2858" style="height: 32px; width: auto;"/>
+          <!--Typescript-->
+          <img src="https://img.shields.io/badge/Typescript-23232F?style=for-the-badge&logo=typescript&logoColor=3178c6" style="height: 32px; width: auto;"/>
           <!--Prisma-->
           <img src="https://img.shields.io/badge/Prisma-23232F?style=for-the-badge&logo=prisma&logoColor=FFFFFF" style="height: 32px; width: auto;"/>
           <!--Drizzle-->
