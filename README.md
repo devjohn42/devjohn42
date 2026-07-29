@@ -18,6 +18,8 @@
           <img src="https://img.shields.io/badge/Drizzle-23232f?style=for-the-badge&logo=drizzle&logoColor=C5F74F" style="height: 32px; width: auto;"/>
           <!--PostgreSQL-->
           <img src="https://img.shields.io/badge/PostgreSQL-23232F?style=for-the-badge&logo=postgresql&logoColor=336791" style="height: 32px; width: auto;"/>
+          <!--Convex-->
+          <img src="https://img.shields.io/badge/Convex-23232f?style=for-the-badge&logo=convex&logoColor=EE342F" style="height: 32px; width: auto;"/>
           <!--Docker-->
           <img src="https://img.shields.io/badge/Docker-23232F?style=for-the-badge&logo=docker&logoColor=1D63ED" style="height: 32px; width: auto;"/>
           <!--RabbitMQ-->
